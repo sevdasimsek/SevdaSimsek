@@ -24,7 +24,7 @@
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=onedark&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/SevdaSimsek)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SevdaSimsek&theme=onedark&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/SevdaSimsek)
   
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SevdaSimsek&theme=onedark)](https://github.com/SevdaSimsek)
