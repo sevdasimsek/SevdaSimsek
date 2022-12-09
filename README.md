@@ -1,8 +1,7 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/SevdaSimsek?style=flat&logo=github)](https://github.com/SevdaSimsek?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/SevdaSimsek?style=flat&logo=github&)](https://github.com/SevdaSimsek?tab=repositories)
+Hi I'm Sevda.
 
 <hr>
 
